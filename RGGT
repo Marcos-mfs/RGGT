@@ -504,6 +504,8 @@ http://stream.mcquack.net/66/index.m3u8
 #EXTINF:-1,zSEX PRIVE
 https://cdn-sp2.satlabscloud.com.br/SEX_PRIVE/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV 4K
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV2
@@ -538,6 +540,19 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV17
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", TV BEIJING 4K
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", TV BEIJING 4K
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", DRAGAO TV 4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", DRAGAO TV 4K
+https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", TV DE HUNAN 4K
+http://123.118.55.165:45237/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", TV DE HUNAN 4K
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 
 #EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small",NHK G HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
