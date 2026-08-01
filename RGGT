@@ -114,6 +114,199 @@ http://190.83.85.68:80/tv_brasil/index.m3u8
 #EXTINF:-1,TV Gazeta
 http://190.83.85.68:80/gazeta/index.m3u8
 
+#EXTINF:-1,ADULT SWIN
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1181.m3u8
+#EXTINF:-1,AGRO CANAL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1180.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1179.m3u8
+#EXTINF:-1,ART1
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1178.m3u8
+#EXTINF:-1,AWTV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1177.m3u8
+#EXTINF:-1,BAND
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1176.m3u8
+#EXTINF:-1,BAND MINAS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1175.m3u8
+#EXTINF:-1,BAND SPORTS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.m3u8
+#EXTINF:-1,CANAL DO BOI
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1172.m3u8
+#EXTINF:-1,CANAL RURAL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1171.m3u8
+#EXTINF:-1,CANAL SAUDE
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1170.m3u8
+#EXTINF:-1,CANCAO NOVA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1169.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1168.m3u8
+#EXTINF:-1,CARTOONITO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1167.m3u8
+#EXTINF:-1,CHESPIRITO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1165.m3u8
+#EXTINF:-1,CINE BRASIL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1164.m3u8
+#EXTINF:-1,CINEMAX
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1163.m3u8
+#EXTINF:-1,CLASSIQUE TV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1162.m3u8
+#EXTINF:-1,CNN
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1161.m3u8
+#EXTINF:-1,CNT
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1160.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1156.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1155.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1154.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1153.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1152.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1151.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1150.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1149.m3u8
+#EXTINF:-1,E-MUSIC BLACK
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1148.m3u8
+#EXTINF:-1,E-MUSIC CLASSICS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1147.m3u8
+#EXTINF:-1,E-MUSIC HITS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1146.m3u8
+#EXTINF:-1,E-MUSIC LATINO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1145.m3u8
+#EXTINF:-1,E-MUSIC PARTY
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1144.m3u8
+#EXTINF:-1,E-MUSIC POP
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1143.m3u8
+#EXTINF:-1,E-MUSIC ROCK
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1142.m3u8
+#EXTINF:-1,ESPN
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1114.m3u8
+#EXTINF:-1,ESPN 3
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1140.m3u8
+#EXTINF:-1,ESPN 4
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1159.m3u8
+#EXTINF:-1,ESPN 6
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1131.m3u8
+#EXTINF:-1,FISH TV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1138.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1137.m3u8
+#EXTINF:-1,GAZETA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1135.m3u8
+#EXTINF:-1,GLOBO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1134.m3u8
+#EXTINF:-1,GLOBO MINAS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1132.m3u8
+#EXTINF:-1,GLOOBINHO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1113.m3u8
+#EXTINF:-1,GLOOB
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1130.m3u8
+#EXTINF:-1,GNT
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1129.m3u8
+#EXTINF:-1,HBO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.m3u8
+#EXTINF:-1,HBO 2
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.m3u8
+#EXTINF:-1,HBO FAMILY
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1126.m3u8
+#EXTINF:-1,ISTV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1120.m3u8
+#EXTINF:-1,JP NEWS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1119.m3u8
+#EXTINF:-1,LBV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1117.m3u8
+#EXTINF:-1,MEGAPIX
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1116.m3u8
+#EXTINF:-1,MULTISHOW
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1081.m3u8
+#EXTINF:-1,PAI ETERNO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1108.m3u8
+#EXTINF:-1,PLAYPOCA FILMES
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1106.m3u8
+#EXTINF:-1,PLAYPOCA SERIES
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1105.m3u8
+#EXTINF:-1,PREMIERE 2
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1104.m3u8
+#EXTINF:-1,PREMIERE 3
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1103.m3u8
+#EXTINF:-1,PREMIERE 4
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
+#EXTINF:-1,PREMIERE CLUBES
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.m3u8
+#EXTINF:-1,RECORD
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1098.m3u8
+#EXTINF:-1,RECORD MINAS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1097.m3u8
+#EXTINF:-1,RECORD NEWS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1096.m3u8
+#EXTINF:-1,REDE FAMILIA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1095.m3u8
+#EXTINF:-1,REDE GENESIS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1093.m3u8
+#EXTINF:-1,REDE MINAS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1092.m3u8
+#EXTINF:-1,REDE NGT
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1091.m3u8
+#EXTINF:-1,REDE TV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1089.m3u8
+#EXTINF:-1,REDE VIDA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1088.m3u8
+#EXTINF:-1,SERIES CLASSICAS
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1087.m3u8
+#EXTINF:-1,SBT
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1086.m3u8
+#EXTINF:-1,SBT ALTEROSA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1085.m3u8
+#EXTINF:-1,SECULO 21
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1084.m3u8
+#EXTINF:-1,SESC TV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1083.m3u8
+#EXTINF:-1,SPACE
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1082.m3u8
+#EXTINF:-1,SPORTV
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
+#EXTINF:-1,SPORTV 2
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1080.m3u8
+#EXTINF:-1,SPORTV 3
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
+#EXTINF:-1,TCM
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1077.m3u8
+#EXTINF:-1,TCM HD
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1076.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1075.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1072.m3u8
+#EXTINF:-1,TELECINE PREMIUM
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1071.m3u8
+#EXTINF:-1,TNT
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1068.m3u8
+#EXTINF:-1,TNT SERIES
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1067.m3u8
+#EXTINF:-1,TOONCAST
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1066.m3u8
+#EXTINF:-1,TV APARECIDA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1065.m3u8
+#EXTINF:-1,TV BRASIL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1064.m3u8
+#EXTINF:-1,TV BRUSQUE
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1063.m3u8
+#EXTINF:-1,TV CAMARA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1062.m3u8
+#EXTINF:-1,TV JUSTICA
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1058.m3u8
+#EXTINF:-1,TV SENADO
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1056.m3u8
+#EXTINF:-1,TV TURFE
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1055.m3u8
+#EXTINF:-1,VRT CHANNEL
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1051.m3u8
+
 #EXTINF:-1,BAND SPORTS HD
 https://cdn-sp2.satlabscloud.com.br/BAND_SPORTS_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1,ESPN HD
@@ -328,6 +521,43 @@ https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:0 type="stream" channelId="2646" aspect-ratio="16:9" size="Small",SIC NEWS
 https://d277k9d1h9dro4.cloudfront.net/out/v1/2a9b0375a99e49a9b84feea2b46e2871/index_1.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV 4K
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV1
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV2
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV3
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV4
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV5
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV6
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV7
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV9
+http://69.30.245.50/live/cctv9.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV10
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV11
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV12
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV13
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV14
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV15
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV16
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV17
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+
 
 #EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", WABC
 http://4.30.180.36:8420/abc/index.m3u8?token=test
@@ -504,43 +734,6 @@ http://stream.mcquack.net/66/index.m3u8
 #EXTINF:-1,zSEX PRIVE
 https://cdn-sp2.satlabscloud.com.br/SEX_PRIVE/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV 4K
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV1
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV2
-http://69.30.245.50/live/cctv2.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV3
-http://69.30.245.50/live/cctv3.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV4
-http://69.30.245.50/live/cctv4.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV5
-http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV6
-http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV7
-http://69.30.245.50/live/cctv7.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV8
-http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV9
-http://69.30.245.50/live/cctv9.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV10
-http://69.30.245.50/live/cctv10.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV11
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV12
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV13
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV14
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV15
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV16
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV17
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", TV BEIJING 4K
 http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", TV BEIJING 4K
@@ -554,9 +747,7 @@ http://123.118.55.165:45237/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", TV DE HUNAN 4K
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 
-#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small",NHK G HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small",NHK G BACKUP
+#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small",NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
 
 #EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES 4k- Telecinco" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecinco.png" group-title="EU- ES 4K UHD",ES 4k- Telecinco
@@ -3309,3 +3500,106 @@ https://rtve01p.origin.c21livecloud.com/live-origin/clan-hls/bitrate_1.m3u8
 https://rtve01p.origin.c21livecloud.com/live-origin/24h-hls/bitrate_1.m3u8
 #EXTINF:0 group-title="España" tvg-chno="99",tdp
 https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+#EXTINF:169,FOX BUSINESS
+#EXTVLCOPT:network-caching=1000
+http://206.212.244.63:80/66/index.m3u8
+#EXTINF:132,FOX WEATHER
+#EXTVLCOPT:network-caching=1000
+http://206.212.244.63:80/68/index.m3u8
+#EXTINF:150,FOX - LOS ANGELES
+#EXTVLCOPT:network-caching=1000
+http://206.212.244.63:80/63/index.m3u8
+#EXTINF:150,FOX - NEW YORK
+#EXTVLCOPT:network-caching=1000
+http://206.212.244.63:80/64/index.m3u8
+#EXTINF:180,CBS 2 - NEW YORK
+#EXTVLCOPT:network-caching=1000
+http://206.212.244.63:80/32/index.m3u8
+#EXTINF:179,CBS 10 - LAFAYETTE
+#EXTVLCOPT:network-caching=1000
+http://206.212.244.63:80/33/index.m3u8
+#EXTINF:162,CNBC
+#EXTVLCOPT:network-caching=1000
+http://206.212.244.63:80/41/index.m3u8
+#EXTINF:176,CNBC WORLD
+#EXTVLCOPT:network-caching=1000
+http://206.212.244.63:80/42/index.m3u8
+#EXTINF:150,CNN
+#EXTVLCOPT:network-caching=1000
+http://206.212.244.63:80/43/index.m3u8
+
+#EXTINF:0 group-title="España" tvg-chno="1",La 1
+http://79.112.79.166:8069/udp/239.10.20.5:1234
+#EXTINF:0 group-title="España" tvg-chno="2",La 2
+http://79.112.79.166:8069/udp/239.10.20.8:1234
+#EXTINF:0 group-title="España" tvg-chno="3",Antena 3
+http://79.112.79.166:8069/udp/239.10.20.9:1234
+#EXTINF:0 group-title="España" tvg-chno="4",Cuatro
+http://79.112.79.166:8069/udp/239.10.20.20:1234
+#EXTINF:0 group-title="España" tvg-chno="5",Telecinco
+http://79.112.79.166:8069/udp/239.10.20.19:1234
+#EXTINF:0 group-title="España" tvg-chno="6",LaSexta
+http://79.112.79.166:8069/udp/239.10.20.11:1234
+#EXTINF:0 group-title="España" tvg-chno="7",Real Madrid TV
+http://79.112.79.166:8069/udp/239.10.20.37:1234
+#EXTINF:0 group-title="España" tvg-chno="8",FDF
+http://79.112.79.166:8069/udp/239.10.20.17:1234
+#EXTINF:0 group-title="España" tvg-chno="9",TDP
+http://79.112.79.166:8069/udp/239.10.20.3:1234
+#EXTINF:0 group-title="España" tvg-chno="29",TeleMadrid
+http://79.112.79.166:8069/udp/239.255.3.1:1234
+#EXTINF:0 group-title="España" tvg-chno="90",TeleMadrid HDR
+http://79.112.79.166:8069/udp/239.255.3.2:1234
+#EXTINF:0 group-title="España" tvg-chno="91",La 1
+http://79.112.79.166:8069/udp/239.10.20.1:1234
+#EXTINF:0 group-title="España" tvg-chno="92",La 2
+http://79.112.79.166:8069/udp/239.10.20.2:1234
+#EXTINF:0 group-title="España" tvg-chno="93",Antena 3
+http://79.112.79.166:8069/udp/239.250.4.1:1234
+#EXTINF:0 group-title="España" tvg-chno="95",Telecinco
+http://79.112.79.166:8069/udp/239.250.5.1:1234
+#EXTINF:0 group-title="España" tvg-chno="96",LaSexta
+http://79.112.79.166:8069/udp/239.250.4.2:1234
+#EXTINF:0 group-title="España" tvg-chno="99",La 1 UHD
+http://79.112.79.166:8069/udp/239.10.20.23:1234
+
+
+EXTINF:-1,BBC1
+http://51.178.182.222:80/BBC1/index.m3u8
+#EXTINF:-1,BBC2
+http://51.178.182.222:80/BBC2/index.m3u8
+#EXTINF:-1,BBC3
+http://51.178.182.222:80/BBC3/index.m3u8
+#EXTINF:-1,BBC4
+http://51.178.182.222:80/BBC4/index.m3u8
+#EXTINF:-1,ITV1
+http://51.178.182.222:80/ITV1/index.m3u8
+#EXTINF:-1,ITV2
+http://51.178.182.222:80/ITV2/index.m3u8
+#EXTINF:-1,ITV3
+http://51.178.182.222:80/ITV3/index.m3u8
+#EXTINF:-1,ITV4
+http://51.178.182.222:80/ITV4/index.m3u8
+#EXTINF:-1,İTVBE
+http://51.178.182.222:80/itvbe/index.m3u8
+
+#EXTINF:0 group-title="PT",RTP 1
+http://50.7.120.34:8080/RTP_1/index.m3u8
+#EXTINF:0 group-title="PT",RTP 2
+http://50.7.120.34:8080/RTP_2/index.m3u8
+#EXTINF:0 group-title="PT",RTP Notícias
+http://50.7.120.34:8080/RTP_3/index.m3u8
+#EXTINF:0 group-title="PT",RTP Memória
+http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
+#EXTINF:0 group-title="PT",RTP Mundo
+http://202.169.224.202:8800/udp/239.6.2.1:1234
+#EXTINF:-1,Channel4
+http://51.178.182.222:80/Channel4/index.m3u8
+#EXTINF:-1,Channel5
+http://51.178.182.222:80/Channel5/index.m3u8
+#EXTINF:-1,BBCAlba
+http://51.178.182.222:80/bbcalba/index.m3u8
+#EXTINF:-1,4seven
+http://51.178.182.222:80/4seven/index.m3u8
+#EXTINF:-1,BBCNews
+http://51.178.182.222:80/BBCNews/index.m3u8
