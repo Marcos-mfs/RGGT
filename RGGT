@@ -2,6 +2,25 @@
 #EXTINF:0, MENDANHA
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
+http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2728000.m3u8
+#EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA
+https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
+#EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
+https://media-gmcdn.eduplay.rnp.br/live/exSfynp7cIMoEIqHV6mQ5w'''''''1'/CGLdzTh3vYcg/720_index.m3u8
+#EXTINF:0 type="stream" channelId="5125" aspect-ratio="16:9" size="Small",TV SERRA DOURADA SBT
+http://fsonline01.org:80/5289442894/2879833814/72358
+#EXTINF:-1 tvg-name="BAND TV SUCESSO" tvg-logo="https://acstatic.co/logos/canais/band.png",BAND TV SUCESSO GOIANIA
+https://tv.gs10.com.br/hls/stream1.m3u8
+#EXTINF:-1 tvg-name="BAND TV SUCESSO" tvg-logo="https://acstatic.co/logos/canais/band.png",BAND TV SUCESSO INTERIOR RV
+https://tv.gs10.com.br/hls/stream2.m3u8
+#EXTINF:-1,Record TV GOIAS
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1,FONTE TV
+https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
+
 #EXTINF:-1 tvg-name="TV BAHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TVBahia25.svg/250px-TVBahia25.svg.png",TV BAHIA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
@@ -461,18 +480,6 @@ http://tv.mapfibra.com.br:8555/live/2003/123456/289.m3u8
 http://tv.mapfibra.com.br:8555/live/1280/123456/318.m3u8
 #EXTINF:-1 tvg-name="TV CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/250px-Cultura_logo_2013.svg.png",TV CULTURA REDE
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8
-#EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
-http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2728000.m3u8
-#EXTINF:-1 tvg-name="PUCTV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUCTV GOIANIA
-https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1 tvg-name="UFG TV GOIANIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Avatar_-_Quadrado_02.png",UFG TV GOIANIA HD
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
-#EXTINF:0 type="stream" channelId="5125" aspect-ratio="16:9" size="Small",TV SERRA DOURADA SBT
-http://fsonline01.org:80/5289442894/2879833814/72358
-#EXTINF:-1 tvg-name="BAND TV SUCESSO" tvg-logo="https://acstatic.co/logos/canais/band.png",BAND TV SUCESSO GOIANIA
-https://tv.gs10.com.br/hls/stream1.m3u8
-#EXTINF:-1 tvg-name="BAND TV SUCESSO" tvg-logo="https://acstatic.co/logos/canais/band.png",BAND TV SUCESSO INTERIOR RV
-https://tv.gs10.com.br/hls/stream2.m3u8
 
 #EXTINF:-1 tvg-name="SBT" tvg-logo="https://acstatic.co/logos/canais/sbt.png",+SBT
 https://aovivo.maissbt.com/channel_720.m3u8
@@ -557,7 +564,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 http://198.204.228.26/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s",CCTV17
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-
 
 #EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", WABC
 http://4.30.180.36:8420/abc/index.m3u8?token=test
@@ -678,11 +684,14 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="TVG2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/250px-Televisi%C3%B3n_de_Galicia_Logo.svg.png", TVG2
 https://crtvg-events3.flumotion.cloud/crtvg/events3_high/chunks.m3u8
-
+#EXTINF:0,SIC NOTICIAS
+https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0,REUTERS
 #EXTVLCOPT:network-caching=1000
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 
+#EXTINF:47,yPCLASSIC
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:47,yPlayboy
 #EXTVLCOPT:network-caching=1000
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
@@ -747,8 +756,10 @@ http://123.118.55.165:45237/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNcq9oKDook7J8Ymsm3yiOzMmMA93yAQz5Vw&s", TV DE HUNAN 4K
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 
-#EXTINF:0 type="stream" channelId="771" aspect-ratio="16:9" size="Small",NHK G
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/960px-NHK_logo.svg.png", NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/960px-NHK_logo.svg.png", NHK G HD
+http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
 
 #EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES 4k- Telecinco" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecinco.png" group-title="EU- ES 4K UHD",ES 4k- Telecinco
 http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965562
@@ -3563,7 +3574,7 @@ http://79.112.79.166:8069/udp/239.250.4.2:1234
 #EXTINF:0 group-title="España" tvg-chno="99",La 1 UHD
 http://79.112.79.166:8069/udp/239.10.20.23:1234
 
-EXTINF:-1,BBC1
+#EXTINF:-1,BBC1
 http://51.178.182.222:80/BBC1/index.m3u8
 #EXTINF:-1,BBC2
 http://51.178.182.222:80/BBC2/index.m3u8
