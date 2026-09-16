@@ -2,6 +2,14 @@
 #EXTINF:0, MENDANHA
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/playlist.m3u8
 
+#EXTINF:-1,a_TV ASA BRANCA MACEIO_GLOBO HD
+https://live-tvg-df-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc4OTU4ODc4MCwiaWF0IjoxNzg5NTY3MTgwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tYWxhL3BsYXlsaXN0Lm0zdTgifQ.SJ8YGRJC_dCOC3u33EF7QWCzWMu7BqlcT7z20E1nQCM3ZpfQdF527TT_uJ8nzgJ_mYg79eoK1U5lyg3Ba9XrxZG39cdFQgUOzgOzqgjAE1QJJTr89hjSC0CTDfCXYdf3fgcOYik4bXSm0eSfNEdrPimwZwoFSP10s9jKGS3UfPACJohyDOqec6n43mMvsiPg0VL-eQNiQiQNqoOjcOkO_cIggyRLQ_3E7pAkd8NiOGp_qN0k2Wmi7IJr9O_HGVfAeRRXtkyG7hMVpBSGM7VNqnlQkcj7aU5OAVeB7FQTkazu3KxDg_ZnsLvepOfkoI-cL0SdPADzOgERwAbsr-Pd0Q/live/f(i=2)/globo-ala/globo-ala-audio_1=96000-video=3442944.m3u8
+
+#EXTINF:-1,a_TV TAPAJOS_GLOBO HD
+https://live-tvg-df-06.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtdHZnLWRmLTA2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc4OTU4ODY5NCwiaWF0IjoxNzg5NTY3MDk0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6ImMyYjQ4ZjQ5LTgwYmItNDUyZS1hYjBlLWU1MDMyMTVkMGJjNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tdGFwL3BsYXlsaXN0Lm0zdTgifQ.kp4gLYuOgOgJc28L7rgQaQ9drJiPZyUXZwAa_nYAfbbzt2MtZcFEAkhzHF1OEXitBdgTWRbDfPjt5Hih_b9ZEtdhInW7JwltCq4H9h3DT7nNoS_U7a6RDh09rZnIwYnqFJEJGwvr2Eb-CYyWxU-qVCkBRijPViWMFto-qbs15V_-J7nkpdoRtJjUp6mVrHWlvCJMX3k9Ruv9o5lZCdD4-248-hwjz2GIluO2awgTGUVjwKi4zqXzZ1169yhC_6o3BaH80zGvJYK9gjms-wHkEaDefrMmAmL_yvROHPhOL-DDxTmK8oDIvOhQd0RxS5UuyOS5MQLuAEZnE6eF4IXp0g/live/f(i=2)/globo-tap/globo-tap-audio_1=96000-video=3442944.m3u8
+
+#EXTINF:-1,BBC ONE
+http://176.65.153.4:4001/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
 http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2728000.m3u8
@@ -225,6 +233,19 @@ http://stream.mcquack.net/440/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://stream.mcquack.net/131/index.m3u8
 
+#EXTINF:-1,Azteca 7
+http://195.178.110.110/azteca7/index.m3u8
+#EXTINF:-1,Telemundo
+http://195.178.110.110/telemundo/index.m3u8
+#EXTINF:-1,Movistar
+http://195.178.110.110/movistar/index.m3u8
+#EXTINF:-1,Unimas
+http://190.197.41.183/Unimas/index.m3u8
+#EXTINF:-1,Univision
+http://195.178.110.110/univision/index.m3u8
+#EXTINF:-1,Universo
+http://195.178.110.110/universo/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",TELEFE HD
 http://200.115.120.1:8000/play/ca016/index.m3u8
 
@@ -233,6 +254,8 @@ https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png", CNN USA (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/960px-NHK_logo.svg.png", NHK G
+https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:0 type="stream" channelId="2287" aspect-ratio="16:9",LAS ESTRELLAS SINAL 01
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:Logotipo_de_Televisa.svg",TELEVISA LAS ESTRELLAS
@@ -336,71 +359,6 @@ http://192.141.98.91:8000/play/a1d8/index.m3u8
 #EXTINF:-1,zADT CHANNEL
 http://200.115.120.1:8000/play/ca99/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/960px-NHK_logo.svg.png", NHK G
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/960px-NHK_logo.svg.png", NHK G HD
-http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
-
-#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES 4k- Telecinco" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecinco.png" group-title="EU- ES 4K UHD",ES 4k- Telecinco
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965562
-#EXTINF:-1 tvg-ID="24horas.es" tvg-name="ES 4k- LA Sexta" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasexta.png" group-title="EU- ES 4K UHD",ES 4k- LA Sexta
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/965563
-
-#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES- La 1 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1.png" group-title="EU- ES  TDT",ES- La 1 SD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533508
-#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES- La 1 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1hd.png" group-title="EU- ES  TDT",ES- La 1 HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65974
-#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES- LA 1 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la1hd.png" group-title="EU- ES  TDT",ES- LA 1 FHD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50321
-#EXTINF:-1 tvg-ID="La 2" tvg-name="ES- La 2 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/la2.png" group-title="EU- ES  TDT",ES- La 2 SD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533509
-#EXTINF:-1 tvg-ID="La 2" tvg-name="ES- La 2 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tvela2hd.png" group-title="EU- ES  TDT",ES- La 2 HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65973
-#EXTINF:-1 tvg-ID="La 2" tvg-name="ES- LA 2 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/tvela2hd.png" group-title="EU- ES  TDT",ES- LA 2 FHD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50319
-#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES- Antena 3 SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/antena3.png" group-title="EU- ES  TDT",ES- Antena 3 SD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533511
-#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES- Antena 3 HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/antena3hd.png" group-title="EU- ES  TDT",ES- Antena 3 HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65978
-#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES- Antena 3 FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/antena3hd.png" group-title="EU- ES  TDT",ES- Antena 3 FHD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50373
-#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES- Cuatro SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatro.png" group-title="EU- ES  TDT",ES- Cuatro SD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533510
-#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES- Cuatro HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatrohd.png" group-title="EU- ES  TDT",ES- Cuatro HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65975
-#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES- Cuatro FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/cuatrohd.png" group-title="EU- ES  TDT",ES- Cuatro FHD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50342
-#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES- Telecinco SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecinco.png" group-title="EU- ES  TDT",ES- Telecinco SD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533512
-#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES- Telecinco HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecincohd.png" group-title="EU- ES  TDT",ES- Telecinco HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65971
-#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES- Telecinco FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/telecincohd.png" group-title="EU- ES  TDT",ES- Telecinco FHD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50267
-#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES- La Sexta SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasexta.png" group-title="EU- ES  TDT",ES- La Sexta SD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533513
-#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES- La Sexta HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasextahd.png" group-title="EU- ES  TDT",ES- La Sexta HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65972
-#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES- LA Sexta FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/lasextahd.png" group-title="EU- ES  TDT",ES- LA Sexta FHD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50318
-#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES- 24 Horas SD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/24horas.png" group-title="EU- ES  TDT",ES- 24 Horas SD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/533514
-#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES- 24 Horas HD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/24horas.png" group-title="EU- ES  TDT",ES- 24 Horas HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/65925
-#EXTINF:-1 tvg-ID="24 Horas" tvg-name="ES- 24 Horas FHD" tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/24horas.png" group-title="EU- ES  TDT",ES- 24 Horas FHD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/50375
-#EXTINF:-1 tvg-ID="La 1 HD" tvg-name="ES (O) La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) La 1 HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235310
-#EXTINF:-1 tvg-ID="La 2" tvg-name="ES (O) La 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="EU- ES ORANGE OGO",ES (O) La 2 HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235311
-#EXTINF:-1 tvg-ID="Antena 3 HD" tvg-name="ES (O) Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Antena 3 HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235267
-#EXTINF:-1 tvg-ID="Cuatro HD" tvg-name="ES (O) Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Cuatro HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235285
-#EXTINF:-1 tvg-ID="Telecinco HD" tvg-name="ES (O) Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) Telecinco HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235365
-#EXTINF:-1 tvg-ID="La Sexta HD" tvg-name="ES (O) laSexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta%20HD.png" group-title="EU- ES ORANGE OGO",ES (O) laSexta HD
-http://oct.nexon.rocks:80/ecqf6gnxef/euc2287bf0/1235315
-
 #EXTINF:0 group-title="PT",RTP 1
 http://50.7.120.34:8080/RTP_1/index.m3u8
 #EXTINF:0 group-title="PT",RTP 2
@@ -411,4 +369,408 @@ http://50.7.120.34:8080/RTP_3/index.m3u8
 http://50.7.120.34:8080/RTP_MEMORIA/index.m3u8
 #EXTINF:0 group-title="PT",RTP Mundo
 http://202.169.224.202:8800/udp/239.6.2.1:1234
+
+#EXTINF:11,BBC One EMidHD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4001/play/a08i/index.m3u8
+#EXTINF:0,BBC One EastHD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4001/play/a08h/index.m3u8
+#EXTINF:0,BBC One Lon HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4001/play/a08e/index.m3u8
+#EXTINF:0,BBC Two Wal HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4001/play/a08f/index.m3u8
+#EXTINF:0,CBeebies HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4001/play/a08g/index.m3u8
+#EXTINF:0,4seven
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06x/index.m3u8
+#EXTINF:11,BBC ALBA HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06j/index.m3u8
+#EXTINF:0,BBC NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06i/index.m3u8
+#EXTINF:0,BBC One ScotHD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06g/index.m3u8
+#EXTINF:0,BBC One WM HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06k/index.m3u8
+#EXTINF:0,BBC One Wal HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06h/index.m3u8
+#EXTINF:0,Channel 4+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06u/index.m3u8
+#EXTINF:0,DMAX
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a070/index.m3u8
+#EXTINF:0,E4 Extra
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06w/index.m3u8
+#EXTINF:0,E4+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06t/index.m3u8
+#EXTINF:0,E4+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06b/index.m3u8
+#EXTINF:0,Faith UK
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a073/index.m3u8
+#EXTINF:0,Film4+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06y/index.m3u8
+#EXTINF:0,GEO News
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a076/index.m3u8
+#EXTINF:0,GEO TV
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a075/index.m3u8
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06z/index.m3u8
+#EXTINF:0,More4+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a06v/index.m3u8
+#EXTINF:0,Quest Red
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4002/play/a071/index.m3u8
+#EXTINF:11,5 USA
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06h/index.m3u8
+#EXTINF:0,5ACTION
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06n/index.m3u8
+#EXTINF:0,5SELECT
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06k/index.m3u8
+#EXTINF:0,5STAR
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06j/index.m3u8
+#EXTINF:0,5USA+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06i/index.m3u8
+#EXTINF:0,Akaal Channel
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06t/index.m3u8
+#EXTINF:0,Arirang TV HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06e/index.m3u8
+#EXTINF:0,Channel 5
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06g/index.m3u8
+#EXTINF:0,Channel 5 HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06m/index.m3u8
+#EXTINF:0,Channel 5+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06l/index.m3u8
+#EXTINF:0,Dunamis TV
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06q/index.m3u8
+#EXTINF:0,EWTN Catholic
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06s/index.m3u8
+#EXTINF:0,GREAT! romance
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06d/index.m3u8
+#EXTINF:0,IQRA Bangla
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06v/index.m3u8
+#EXTINF:0,IQRA TV
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06u/index.m3u8
+#EXTINF:0,Islam Ch Urdu
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06r/index.m3u8
+#EXTINF:0,Islam Channel
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06o/index.m3u8
+#EXTINF:0,Islam TV
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06w/index.m3u8
+#EXTINF:0,MTA1 World HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06f/index.m3u8
+#EXTINF:0,NHK World HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06c/index.m3u8
+#EXTINF:0,TBN UK
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4003/play/a06p/index.m3u8
+#EXTINF:11,Great! Xmas+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06f/index.m3u8
+#EXTINF:0,GREAT! action
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06d/index.m3u8
+#EXTINF:0,GREAT! movies
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06b/index.m3u8
+#EXTINF:0,GREAT! movies+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06h/index.m3u8
+#EXTINF:0,GREAT! real
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06g/index.m3u8
+#EXTINF:0,GREAT! real+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06n/index.m3u8
+#EXTINF:0,GREAT! romance 
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06e/index.m3u8
+#EXTINF:0,GREAT! tv
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06l/index.m3u8
+#EXTINF:0,GREAT! tv
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06c/index.m3u8
+#EXTINF:0,GREAT! tv+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06m/index.m3u8
+#EXTINF:0,GREAT!action+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06j/index.m3u8
+#EXTINF:0,ITV1 HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07n/index.m3u8
+#EXTINF:0,ITV1 HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07k/index.m3u8
+#EXTINF:0,ITV1 Wales HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07m/index.m3u8
+#EXTINF:0,ITV1+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07g/index.m3u8
+#EXTINF:0,ITV2 HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07l/index.m3u8
+#EXTINF:0,ITV2+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07h/index.m3u8
+#EXTINF:0,ITV3 HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07o/index.m3u8
+#EXTINF:0,ITV3+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07i/index.m3u8
+#EXTINF:0,ITV4+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07j/index.m3u8
+#EXTINF:0,LEGEND
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a078/index.m3u8
+#EXTINF:0,LEGEND
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06w/index.m3u8
+#EXTINF:0,LEGEND XTRA
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a076/index.m3u8
+#EXTINF:0,LEGEND XTRA
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06u/index.m3u8
+#EXTINF:0,LEGEND XTRA+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07c/index.m3u8
+#EXTINF:0,LEGEND XTRA+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a070/index.m3u8
+#EXTINF:0,PBS America
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a079/index.m3u8
+#EXTINF:0,PBS America
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06x/index.m3u8
+#EXTINF:0,POP+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06k/index.m3u8
+#EXTINF:0,S4C HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a072/index.m3u8
+#EXTINF:0,STV
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07f/index.m3u8
+#EXTINF:0,TJC HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a073/index.m3u8
+#EXTINF:0,TRUE CRIME
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07a/index.m3u8
+#EXTINF:0,TRUE CRIME
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06y/index.m3u8
+#EXTINF:0,TRUE CRIME X
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a077/index.m3u8
+#EXTINF:0,TRUE CRIME X
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06v/index.m3u8
+#EXTINF:0,TRUE CRIME+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07b/index.m3u8
+#EXTINF:0,TRUE CRIME+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06z/index.m3u8
+#EXTINF:0,That's TV
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07d/index.m3u8
+#EXTINF:0,That's TV 2
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a075/index.m3u8
+#EXTINF:0,That's TV 2
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a06t/index.m3u8
+#EXTINF:0,That's TV 3
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4004/play/a07e/index.m3u8
+#EXTINF:0,Channels 24
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4005/play/a06e/index.m3u8
+#EXTINF:11,QVC Beauty
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4005/play/a06b/index.m3u8
+#EXTINF:0,QVC Extra
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4005/play/a06a/index.m3u8
+#EXTINF:0,QVC HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4005/play/a06c/index.m3u8
+#EXTINF:0,QVC Style HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4005/play/a06d/index.m3u8
+#EXTINF:0,Travelxp
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4005/play/a06g/index.m3u8
+#EXTINF:11,Bloomberg HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4006/play/a06c/index.m3u8
+#EXTINF:0,CNN HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4006/play/a06d/index.m3u8
+#EXTINF:0,GB News HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4006/play/a06a/index.m3u8
+#EXTINF:0,LoveWorld HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4006/play/a06b/index.m3u8
+#EXTINF:11,BBC One Sth HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a070/index.m3u8
+#EXTINF:0,CNBC HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a072/index.m3u8
+#EXTINF:0,Channel 4 HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a074/index.m3u8
+#EXTINF:0,DMAX
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06r/index.m3u8
+#EXTINF:0,DMAX+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06o/index.m3u8
+#EXTINF:0,Dave
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06j/index.m3u8
+#EXTINF:0,Dave ja vu
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06l/index.m3u8
+#EXTINF:0,Drama
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06h/index.m3u8
+#EXTINF:0,Drama+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06k/index.m3u8
+#EXTINF:0,Food Network
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06y/index.m3u8
+#EXTINF:0,Food Netwrk+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06z/index.m3u8
+#EXTINF:0,Food Netwrk+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06q/index.m3u8
+#EXTINF:0,HGTV
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06s/index.m3u8
+#EXTINF:0,QUEST
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06v/index.m3u8
+#EXTINF:0,QUEST+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06x/index.m3u8
+#EXTINF:0,Quest Red
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06w/index.m3u8
+#EXTINF:0,Quest Red+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06u/index.m3u8
+#EXTINF:0,Really
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06n/index.m3u8
+#EXTINF:0,STV HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a073/index.m3u8
+#EXTINF:0,Sky Mix HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a071/index.m3u8
+#EXTINF:0,U&Dave
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a077/index.m3u8
+#EXTINF:0,U&DaveJaVu
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a07c/index.m3u8
+#EXTINF:0,U&Drama
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a079/index.m3u8
+#EXTINF:0,U&Drama+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a07b/index.m3u8
+#EXTINF:0,U&Eden
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a075/index.m3u8
+#EXTINF:0,U&W
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a078/index.m3u8
+#EXTINF:0,U&W+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a07a/index.m3u8
+#EXTINF:0,U&Yesterday
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a076/index.m3u8
+#EXTINF:0,U&Yesterday+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a07d/index.m3u8
+#EXTINF:0,W
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06g/index.m3u8
+#EXTINF:0,W+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06i/index.m3u8
+#EXTINF:0,YESTERDAY
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06e/index.m3u8
+#EXTINF:0,YESTERDAY+1
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4007/play/a06m/index.m3u8
+#EXTINF:11,BBC One CI HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4008/play/a06f/index.m3u8
+#EXTINF:0,BBC One SW HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4008/play/a06j/index.m3u8
+#EXTINF:0,BBC One Wst HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4008/play/a06h/index.m3u8
+#EXTINF:0,BBC RB 1 HD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4008/play/a06g/index.m3u8
+#EXTINF:0,BBCScotlandHD
+#EXTVLCOPT:network-caching=1000
+http://176.65.153.4:4008/play/a06i/index.m3u8
+
 
