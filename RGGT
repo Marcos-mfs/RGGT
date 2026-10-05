@@ -16,6 +16,11 @@ http://4.30.180.36:8420/nbc/index.m3u8?token=test
 #EXTINF:0,B_FOX 5 NY
 http://4.30.180.36:8420/fox/index.m3u8?token=test
 
+#EXTINF:-1,FOROTV 
+http://38.65.175.25:8000/play/a0ny/index.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
+
 #EXTINF:-1,BBC ONE
 http://176.65.153.4:4001/play/a08e/index.m3u8
 
@@ -220,11 +225,13 @@ https://streamcdnr5-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rain
 #EXTINF:0,CNN ESPANOL LATAM
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 #EXTINF:0,CNN INTERNATIONAL
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://181.78.8.199:8000/play/a0jg/index.m3u8
+
+
 #EXTINF:0,CNNMONEY
 https://video03.logicahost.com.br/cnnmoney/cnnmoney/chunklist_w992789902.m3u8
 #EXTINF:0,CNN BRASIL
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1119261070.m3u8
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/97d678e115854c73b5bfaf87c2d43956/playlist.m3u8
 #EXTINF:0,NEWSMAX
 https://nmx1gonet.akamaized.net/hls/live/2107009/Live_1/3.m3u8
 #EXTINF:0,AL JAZEERA
@@ -259,8 +266,7 @@ http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" ,ABC TV Sydney (720p)
 https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png", CNN USA (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 
 
 #EXTINF:0 type="stream" channelId="2287" aspect-ratio="16:9",LAS ESTRELLAS SINAL 01
@@ -780,168 +786,8 @@ http://176.65.153.4:4008/play/a06g/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://176.65.153.4:4008/play/a06i/index.m3u8
 
-#EXTINF:0,LA RED
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/23.ts
-#EXTINF:0,|MEGA
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/25.ts
-#EXTINF:0,DISNEY JR
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/30.ts
-#EXTINF:0,T DEPORTT AHORA
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/31.ts
-#EXTINF:0,SONY CINE
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/32.ts
-#EXTINF:0,A & E
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/33.ts
-#EXTINF:0,DISCOVERY
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/38.ts
-#EXTINF:0,FMH MOVIES
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/40.ts
-#EXTINF:0,ESPN 2
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/41.ts
-#EXTINF:0,FS PREMIUM
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/42.ts
-#EXTINF:0,KANAL D DRAMA
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/44.ts
-#EXTINF:0,STAR CHANNEL
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/45.ts
-#EXTINF:0,ID DISCOVERY
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/46.ts
-#EXTINF:0,L1 MAX
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/47.ts
-#EXTINF:0,DISCOVERY WORLD
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/49.ts
-#EXTINF:0,ADULT SWIM
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/50.ts
-#EXTINF:0,NAT GEO
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/51.ts
-#EXTINF:0,BANDAMAX
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/52.ts
-#EXTINF:0,MOVIES
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/53.ts
-#EXTINF:0,CNN
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/54.ts
-#EXTINF:0,WB
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/57.ts
-#EXTINF:0,UNIVERSAL TV
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/58.ts
-#EXTINF:0,E ENTERTAINMENT
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/60.ts
-#EXTINF:0,FOX SPORTS
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/62.ts
-#EXTINF:0,UNIVERSAL CINEMA
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/63.ts
-#EXTINF:0,HISTORY
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/64.ts
-#EXTINF:0,H2 HISTORY
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/107.ts
-#EXTINF:0,DISCOVERY THEATER HD
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/65.ts
-#EXTINF:0,AMC
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/68.ts
-#EXTINF:0,CINE FAMILIAR
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/70.ts
-#EXTINF:0,DISNEY
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/71.ts
-#EXTINF:0,G PREMIER 2
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/74.ts
-#EXTINF:0,FHM KIDS
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/76.ts
-#EXTINF:0,FX
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/79.ts
-#EXTINF:0,G EDGE
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/86.ts
-#EXTINF:0,NICKELODEON
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/87.ts
-#EXTINF:0,h & h DISCOVERY
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/88.ts
-#EXTINF:0,SPACE
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/89.ts
-#EXTINF:0,TNT
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/92.ts
-#EXTINF:0,DHE
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/93.ts
-#EXTINF:0,AXN
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/99.ts
-#EXTINF:0,ESPN 5
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/100.ts
-#EXTINF:0,TCM
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/105.ts
-#EXTINF:0,TOONCAST
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/108.ts
-#EXTINF:0,NICKELODEON
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/110.ts
-#EXTINF:0,DISCOVERY TURBO
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/111.ts
-#EXTINF:0,C5N
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/142.ts
-#EXTINF:0,CORTA POR LOZANO
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/141.ts
-#EXTINF:0,REAL TV
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/139.ts
-#EXTINF:0,DC
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/145.ts
-#EXTINF:0,RCN TV
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/146.ts
-#EXTINF:0,EL GOURMET
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/149.ts
-#EXTINF:0,TYC SPORTS
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/150.ts
-#EXTINF:0,AVI CINEMA
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/152.ts
-#EXTINF:0,AVI REWINDS
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/153.ts
-#EXTINF:0,BABY TV
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/154.ts
-#EXTINF:0,FRANCE 24
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/155.ts
-#EXTINF:0,MAX ANIME
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/156.ts
-#EXTINF:0,HORSE TV    HIPICO
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/157.ts
-#EXTINF:0,DEUTSCHE WELLE
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/160.ts
-#EXTINF:0,EURONEWS
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/161.ts
-#EXTINF:0,LOVE NATURE
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/162.ts
-#EXTINF:0,CANAL CLARO
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/164.ts
-#EXTINF:0,LA 2 SPAIN
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/166.ts
-#EXTINF:0,RTVE ES 24
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/167.ts
-#EXTINF:0,F 1 TV
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/169.ts
-#EXTINF:0,BEIN SPORTS EXTRA
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/170.ts
-#EXTINF:0,BBC SERIES
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/171.ts
-#EXTINF:0,TELEMUNDO
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/172.ts
-#EXTINF:0,UFC STREAM PARAMOUNT PLUS
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/173.ts
-#EXTINF:0,G CHANNEL
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/174.ts
-#EXTINF:0,UNIMAS TV
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/175.ts
-#EXTINF:0,T FLORIDA
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/176.ts
-#EXTINF:0,TELEMUNDO
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/177.ts
-#EXTINF:0,DW
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/178.ts
-#EXTINF:0,RUSSIA TODAY
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/179.ts
-#EXTINF:0,FOX TV
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/180.ts
-#EXTINF:0,FIFA PLUS
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/181.ts
-#EXTINF:0,A 3 N
-http://hispasat71w.duckdns.org:80/live/56F492F8FE8B02C0E833F2836A9C5339/182.ts
-
 #EXTINF:0,INDIA TV
 https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
-
 
 #EXTINF:0,フジテレビ FUJI
 https://fujitv4.mov3.co/hls/fujitv.m3u8
