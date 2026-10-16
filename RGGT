@@ -7,6 +7,8 @@ https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXA
 #EXTINF:-1,a_TV GAZETA_AL HD
 https://virtues.live:1936/tvmar/tvmar/chunklist_w907388779.m3u8
 
+
+
 #EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", B_WABC
 http://4.30.180.36:8420/abc/index.m3u8?token=test
 #EXTINF:-1 tvg-name="WCBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/250px-CBS_logo_%282020%29.svg.png", B_WCBS
@@ -24,6 +26,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1,BBC ONE
 http://176.65.153.4:4001/play/a08e/index.m3u8
 
+#EXTINF:-1 tvg-name="TV ANHANGUERA" tvg-logo="https://thumb.wikimedia.org/wikipedia/pt/thumb/a/a0/Logo_TV_Anhanguera_2019.png/250px-Logo_TV_Anhanguera_2019.png?utm_source=pt.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",TV ANHANGUERA
+http://79.127.238.228:14173/
+#EXTINF:-1 tvg-name="RECORD GO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTIU89DyKuFxsqpu3sOt1hpwKABOAbuu7kPMFvq2RzHA&s=10", RECORD GOIAS
+https://stream.s23-cloudfront-net.lat/8e8e8b142192ea65/recordgo.m3u8
 #EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
 http://tbc.zoeweb.tv/tbc/ngrp:tbc_all/chunklist_b2728000.m3u8
 #EXTINF:-1 tvg-name="tbc" tvg-logo="http://cdn.zoeflix.com.br/storage/tvs/c894d0d5-4e18-4740-b28e-c9c926056e21.jpg",TBC GOIANIA
@@ -816,13 +822,6 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://corgol.com@iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:0,GLOBO RJ Rio Sul HD-FHD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1
-#EXTINF:0,GLOBO Goiás - TV Anhanguera SD-HD
-http://79.127.238.228:14173/
-#EXTINF:0,0_NBC WTVJ MIAMI
-http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
-#EXTINF:0,0_CBS WFOR MIAMI
-http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
-#EXTINF:0,0_ABC WSVN MIAMI
-http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+
 
 
