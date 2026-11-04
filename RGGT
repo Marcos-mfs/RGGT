@@ -7,7 +7,52 @@ https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXA
 #EXTINF:-1,a_TV GAZETA_AL HD
 https://virtues.live:1936/tvmar/tvmar/chunklist_w907388779.m3u8
 
-
+#EXTINF:-1, TV SBT Acre (AC)
+rtmp://142.132.140.85/ac_riobranco-tvsbtacre-sd-internet/tvsbtacre-sd
+#EXTINF:-1, TV Record Acre (AC)
+rtmp://142.132.140.85/ac_riobranco-tvrecordacre-sd-internet/tvrecordacre-sd
+#EXTINF:-1, TV Band Acre (AC)
+rtmp://142.132.140.85/ac_riobranco-tvbandacre-sd-internet/tvbandacre-sd
+#EXTINF:-1, TV Globo Acre (AC)
+rtmp://142.132.140.85/ac_riobranco-tvgloboacre-sd-internet/tvgloboacre-sd
+#EXTINF:-1, TV Gazeta Maceio (AL)
+rtmp://142.132.140.85/al_maceio-tvgazeta-sd-internet/tvgazeta-sd
+#EXTINF:-1, TV Pajucara Maceio (AL)
+rtmp://142.132.140.85/al_maceio-tvpajucara-sd-internet/tvpajucara-sd
+#EXTINF:-1, TV Ponta Verde Maceio (AL)
+rtmp://142.132.140.85/al_maceio-tvpontaverde-sd-internet/tvpontaverde-sd
+#EXTINF:-1, TV Mar Maceio (AL)
+rtmp://142.132.140.85/al_maceio-tvmar-sd-internet/tvmar-sd
+#EXTINF:-1, TV Asa Branca Maceio (AL)
+rtmp://142.132.140.85/al_maceio-tvasabranca-sd-internet/tvasabranca-sd
+#EXTINF:-1, TV Amazon Sat Manaus (AM)
+rtmp://142.132.140.85/am_manaus-tvamazonsat-sd-internet/tvamazonsat-sd
+#EXTINF:-1, TV Bahia Salvador (BA)
+rtmp://142.132.140.85/salvador-tvbahia-sd-internet/tvbahia-sd
+#EXTINF:-1, TV Band Salvador (BA)
+rtmp://142.132.140.85/salvador-tvband-sd-internet/tvband-sd
+#EXTINF:-1, TV Aratu Salvador (BA)
+rtmp://142.132.140.85/salvador-tvaratu-sd-internet/tvaratu-sd
+#EXTINF:-1, TV Itapoan Salvador (BA)
+rtmp://142.132.140.85/salvador-tvitapoan-sd-internet/tvitapoan-sd
+#EXTINF:-1, Record News Salvador (BA)
+rtmp://142.132.140.85/salvador-rnews-sd-internet/rnews-sd
+#EXTINF:-1, TV Verdes Mares Fortaleza (CE)
+rtmp://142.132.140.85/ce_fortaleza-tvverdesmares-sd-internet/tvverdesmares-sd
+#EXTINF:-1, TV Morena Campo Grande (MS)
+rtmp://142.132.140.85/ms_campogrande-tvmorena-sd-internet/tvmorena-sd
+#EXTINF:-1, TV Jornal Recife (PE)
+rtmp://142.132.140.85/pe_recife-tvjornal-sd-internet/tvjornal-sd
+#EXTINF:-1, TV Tribuna Recife (PE)
+rtmp://142.132.140.85/pe_recife-tvtribuna-sd-internet/tvtribuna-sd
+#EXTINF:-1, TV Universitaria Recife (PE)
+rtmp://142.132.140.85/pe_recife-tvuniversitaria-sd-internet/tvuniversitaria-sd
+#EXTINF:-1, TV Rede Amazonica Porto Velho (RO)
+rtmp://142.132.140.85/ro_portovelho-tvredeamazonicaro-sd-internet/tvredeamazonicaro-sd
+#EXTINF:-1, SIC TV Porto Velho (RO)
+rtmp://142.132.140.85/ro_portovelho-sictv-sd-internet/sictv-sd
+#EXTINF:-1, TV Allamanda Porto Velho (RO)
+rtmp://142.132.140.85/ro_portovelho-tvallamada-sd-internet/tvallamada-sd
 
 #EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", B_WABC
 http://4.30.180.36:8420/abc/index.m3u8?token=test
