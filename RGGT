@@ -7,6 +7,13 @@ https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXA
 #EXTINF:-1,a_TV GAZETA_AL HD
 https://virtues.live:1936/tvmar/tvmar/chunklist_w907388779.m3u8
 
+#EXTINF:-1, RECORD SP +
+https://spo4.akamaized.net/hls/live/2029736/spo4/index_1080.m3u8?hdntl=
+#EXTINF:-1, RECORD DF +
+https://bsa4.akamaized.net/hls/live/2037609/bsa4/video_2500K.m3u8?hdntl=
+#EXTINF:-1, RECORD NEWS +
+https://rnw-rn-recordplus.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+
 #EXTINF:-1,XSPORTS HD
 https://cdn-aovivo-atualplay.nxtv.com.br/XSPORTS/index.m3u8
 #EXTINF:-1,BAND SPORTS HD
