@@ -7,52 +7,141 @@ https://live-tvg-df-07.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXA
 #EXTINF:-1,a_TV GAZETA_AL HD
 https://virtues.live:1936/tvmar/tvmar/chunklist_w907388779.m3u8
 
-#EXTINF:-1, TV SBT Acre (AC)
-rtmp://142.132.140.85/ac_riobranco-tvsbtacre-sd-internet/tvsbtacre-sd
-#EXTINF:-1, TV Record Acre (AC)
-rtmp://142.132.140.85/ac_riobranco-tvrecordacre-sd-internet/tvrecordacre-sd
-#EXTINF:-1, TV Band Acre (AC)
-rtmp://142.132.140.85/ac_riobranco-tvbandacre-sd-internet/tvbandacre-sd
-#EXTINF:-1, TV Globo Acre (AC)
-rtmp://142.132.140.85/ac_riobranco-tvgloboacre-sd-internet/tvgloboacre-sd
-#EXTINF:-1, TV Gazeta Maceio (AL)
-rtmp://142.132.140.85/al_maceio-tvgazeta-sd-internet/tvgazeta-sd
-#EXTINF:-1, TV Pajucara Maceio (AL)
-rtmp://142.132.140.85/al_maceio-tvpajucara-sd-internet/tvpajucara-sd
-#EXTINF:-1, TV Ponta Verde Maceio (AL)
-rtmp://142.132.140.85/al_maceio-tvpontaverde-sd-internet/tvpontaverde-sd
-#EXTINF:-1, TV Mar Maceio (AL)
-rtmp://142.132.140.85/al_maceio-tvmar-sd-internet/tvmar-sd
-#EXTINF:-1, TV Asa Branca Maceio (AL)
-rtmp://142.132.140.85/al_maceio-tvasabranca-sd-internet/tvasabranca-sd
-#EXTINF:-1, TV Amazon Sat Manaus (AM)
-rtmp://142.132.140.85/am_manaus-tvamazonsat-sd-internet/tvamazonsat-sd
-#EXTINF:-1, TV Bahia Salvador (BA)
-rtmp://142.132.140.85/salvador-tvbahia-sd-internet/tvbahia-sd
-#EXTINF:-1, TV Band Salvador (BA)
-rtmp://142.132.140.85/salvador-tvband-sd-internet/tvband-sd
-#EXTINF:-1, TV Aratu Salvador (BA)
-rtmp://142.132.140.85/salvador-tvaratu-sd-internet/tvaratu-sd
-#EXTINF:-1, TV Itapoan Salvador (BA)
-rtmp://142.132.140.85/salvador-tvitapoan-sd-internet/tvitapoan-sd
-#EXTINF:-1, Record News Salvador (BA)
-rtmp://142.132.140.85/salvador-rnews-sd-internet/rnews-sd
-#EXTINF:-1, TV Verdes Mares Fortaleza (CE)
-rtmp://142.132.140.85/ce_fortaleza-tvverdesmares-sd-internet/tvverdesmares-sd
-#EXTINF:-1, TV Morena Campo Grande (MS)
-rtmp://142.132.140.85/ms_campogrande-tvmorena-sd-internet/tvmorena-sd
-#EXTINF:-1, TV Jornal Recife (PE)
-rtmp://142.132.140.85/pe_recife-tvjornal-sd-internet/tvjornal-sd
-#EXTINF:-1, TV Tribuna Recife (PE)
-rtmp://142.132.140.85/pe_recife-tvtribuna-sd-internet/tvtribuna-sd
-#EXTINF:-1, TV Universitaria Recife (PE)
-rtmp://142.132.140.85/pe_recife-tvuniversitaria-sd-internet/tvuniversitaria-sd
-#EXTINF:-1, TV Rede Amazonica Porto Velho (RO)
-rtmp://142.132.140.85/ro_portovelho-tvredeamazonicaro-sd-internet/tvredeamazonicaro-sd
-#EXTINF:-1, SIC TV Porto Velho (RO)
-rtmp://142.132.140.85/ro_portovelho-sictv-sd-internet/sictv-sd
-#EXTINF:-1, TV Allamanda Porto Velho (RO)
-rtmp://142.132.140.85/ro_portovelho-tvallamada-sd-internet/tvallamada-sd
+#EXTINF:-1,XSPORTS HD
+https://cdn-aovivo-atualplay.nxtv.com.br/XSPORTS/index.m3u8
+#EXTINF:-1,BAND SPORTS HD
+https://cdn-aovivo-atualplay.nxtv.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1,ESPN HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ESPN/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_2/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_3/index.m3u8
+#EXTINF:-1,ESPN 4 HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_4/index.m3u8
+#EXTINF:-1,ESPN HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_5/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ESPN_6/index.m3u8
+#EXTINF:-1,AMC HD
+https://cdn-aovivo-atualplay.nxtv.com.br/AMC_BRASIL/index.m3u8
+#EXTINF:-1,AXN HD
+https://cdn-aovivo-atualplay.nxtv.com.br/AXN/index.m3u8
+#EXTINF:-1,A&E HD
+https://cdn-aovivo-atualplay.nxtv.com.br/AeE_BRASIL/index.m3u8
+#EXTINF:-1,Arte 1 HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ARTE1/index.m3u8
+#EXTINF:-1,TCL HD
+https://cdn-aovivo-atualplay.nxtv.com.br/TLC_BR/index.m3u8
+#EXTINF:-1,CANÇÃO NOVA HD
+https://cdn-aovivo-atualplay.nxtv.com.br/CANCAO_NOVA/index.m3u8
+#EXTINF:-1,Promessas HD
+https://cdn-aovivo-atualplay.nxtv.com.br/PROMESSAS/index.m3u8
+#EXTINF:-1,HALLODOC HD
+https://cdn-aovivo-atualplay.nxtv.com.br/HALLODOC/index.m3u8
+#EXTINF:-1,WARNER CHANNEL HD
+https://cdn-aovivo-atualplay.nxtv.com.br/WARNER_CHANNEL/index.m3u8
+#EXTINF:-1,URBAN MOVIES HD
+https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_MOVIES/index.m3u8
+#EXTINF:-1,URBAN SERIES HD
+https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_SERIES/index.m3u8
+#EXTINF:-1,URBAN DOCS HD
+https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_DOCS/index.m3u8
+#EXTINF:-1,URBAN TRAVEL HD
+https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_TRAVEL/index.m3u8
+#EXTINF:-1,URBAN TURBO HD
+https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_TURBO/index.m3u8
+#EXTINF:-1,URBAN KIDS HD
+https://cdn-aovivo-atualplay.nxtv.com.br/URBAN_KIDS/index.m3u8
+#EXTINF:-1,SPACE HD
+https://cdn-aovivo-atualplay.nxtv.com.br/SPACE/index.m3u8
+#EXTINF:-1,SONY HD
+https://cdn-aovivo-atualplay.nxtv.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1,SONY_MOVIES HD
+https://cdn-aovivo-atualplay.nxtv.com.br/SONY_MOVIES/index.m3u8
+#EXTINF:-1,TNT NOVELAS HD
+https://cdn-aovivo-atualplay.nxtv.com.br/TNT_NOVELAS/index.m3u8
+#EXTINF:-1,TCM HD
+https://cdn-aovivo-atualplay.nxtv.com.br/TCM/index.m3u8
+#EXTINF:-1,TNT HD
+https://cdn-aovivo-atualplay.nxtv.com.br/TNT/index.m3u8
+#EXTINF:-1,TNTSERIES HD
+https://cdn-aovivo-atualplay.nxtv.com.br/TNT_SERIES_HD/index.m3u8
+#EXTINF:-1,CANALDO BOI
+https://cdn-aovivo-atualplay.nxtv.com.br/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+https://cdn-aovivo-atualplay.nxtv.com.br/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+https://cdn-aovivo-atualplay.nxtv.com.br/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1,DISCOVERY ID HD
+https://cdn-aovivo-atualplay.nxtv.com.br/DISCOVERY_ID/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+https://cdn-aovivo-atualplay.nxtv.com.br/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+https://cdn-aovivo-atualplay.nxtv.com.br/DISCOVERY_THEATER/index.m3u8
+#EXTINF:-1,DISCOVERYTURBO HD
+https://cdn-aovivo-atualplay.nxtv.com.br/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1,DISCOVERY H&H HD
+https://cdn-aovivo-atualplay.nxtv.com.br/DISCOVERY_HH/index.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1,HISTORY HD
+https://cdn-aovivo-atualplay.nxtv.com.br/HISTORY/index.m3u8
+#EXTINF:-1,HISTORY 2 HD
+https://cdn-aovivo-atualplay.nxtv.com.br/HISTORY_2/index.m3u8
+#EXTINF:-1,INSPIRE HD
+https://cdn-aovivo-atualplay.nxtv.com.br/INSPIRE/index.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+https://cdn-aovivo-atualplay.nxtv.com.br/FOOD_NETWORK/index.m3u8
+#EXTINF:-1,TV_BRASIL HD
+https://cdn-aovivo-atualplay.nxtv.com.br/TV_BRASIL/index.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+https://cdn-aovivo-atualplay.nxtv.com.br/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1,CARTOONITO HD
+https://cdn-aovivo-atualplay.nxtv.com.br/CARTOONITO/index.m3u8
+#EXTINF:-1,TOONCAST HD
+https://cdn-aovivo-atualplay.nxtv.com.br/TOONCAST/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+https://cdn-aovivo-atualplay.nxtv.com.br/DISCOVERY_KIDS/index.m3u8
+#EXTINF:-1,Lifetime HD
+https://cdn-aovivo-atualplay.nxtv.com.br/LIFE_TIME/index.m3u8
+#EXTINF:-1,Life HD
+https://cdn-aovivo-atualplay.nxtv.com.br/LIFE/index.m3u8
+#EXTINF:-1,DREAM WORKS HD
+https://cdn-aovivo-atualplay.nxtv.com.br/DREAMWORKS/index.m3u8
+#EXTINF:-1,HALLO ANIME
+https://cdn-aovivo-atualplay.nxtv.com.br/HALLOANIME/index.m3u8
+#EXTINF:-1,ADULT SWIM HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ADULT_SWIN/index.m3u8
+#EXTINF:-1,HALLOMOVIES HD
+https://cdn-aovivo-atualplay.nxtv.com.br/HALLOMOVIES/index.m3u8
+#EXTINF:-1,HALLO CLASSIC HD
+https://cdn-aovivo-atualplay.nxtv.com.br/HALLOCLASSIC/index.m3u8
+#EXTINF:-1,BORA FILMES HD
+https://cdn-aovivo-atualplay.nxtv.com.br/BORAFILMES_FAST/index.m3u8
+#EXTINF:-1,ENTRETENDO HD
+https://cdn-aovivo-atualplay.nxtv.com.br/ENTRETENDO/index.m3u8
+#EXTINF:-1,CNN Brasil HD
+https://cdn-aovivo-atualplay.nxtv.com.br/CNN_BRASIL/index.m3u8
+#EXTINF:-1,BAND NEWS HD
+https://cdn-aovivo-atualplay.nxtv.com.br/BAND_NEWS/index.m3u8
+#EXTINF:-1,GLOBO TV BAHIA
+https://cdn-aovivo-atualplay.nxtv.com.br/GLOBO_BAHIA/index.m3u8
+#EXTINF:-1,CNBC HD
+https://cdn-aovivo-atualplay.nxtv.com.br/CNBC/index.m3u8
+#EXTINF:-1,TRACE BRAZUCA HD
+https://cdn-aovivo-atualplay.nxtv.com.br/TRACE_BRAZUCA/index.m3u8
+#EXTINF:-1,HALLO MUSIC HD
+https://cdn-aovivo-atualplay.nxtv.com.br/HALLOMUSIC/index.m3u8
+#EXTINF:-1,BBB MOSAICO HD
+https://cdn-aovivo-atualplay.nxtv.com.br/MOSAICO/index.m3u8
+#EXTINF:-1,SEXPRIVE
+https://cdn-aovivo-atualplay.nxtv.com.br/SEXPRIVE/index.m3u8
+#EXTINF:-1,HTO MYLF HD
+https://cdn-aovivo-atualplay.nxtv.com.br/HTO_MYLF/index.m3u8
+#EXTINF:-1,HTO Gang HD
+https://cdn-aovivo-atualplay.nxtv.com.br/HTO_GANG/index.m3u8
+
 
 #EXTINF:-1 tvg-name="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/250px-ABC-2021-LOGO.svg.png", B_WABC
 http://4.30.180.36:8420/abc/index.m3u8?token=test
